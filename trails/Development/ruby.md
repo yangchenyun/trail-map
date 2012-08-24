@@ -4,7 +4,7 @@ Ruby
 Critical Learning
 -----------------
 
-* Read [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/book/).
+* Finish [Ruby Monk - Ruby Primer](http://rubymonk.com/)
 * Read [The Well-Grounded Rubyist](http://manning.com/black2/). ($)
 * Complete the [Ruby Koans](http://rubykoans.com).
 * Read examples of source code, such as [this](https://github.com/jferris/effigy/tree/master/lib).
@@ -13,7 +13,8 @@ Critical Learning
 
 ```shell
 Chapter 23, "Duck Typing"
-Chapter 24, "Classes and Objects"
+Chapter 24, "Metaprogramming"
+Chapter 25, "Reflection, ObjectSpace, and Distributed Ruby"
 ```
 
 Validation
@@ -38,6 +39,10 @@ You know intermediate Ruby when you:
 * Define a method which [takes a block as a parameter](http://blog.codahale.com/2005/11/24/a-ruby-howto-writing-a-method-that-uses-code-blocks/).
 * [Extract only keys or values from a Hash](http://www.jasimabasheer.com/posts/meta_introduction_to_ruby.html).
 * Assign default values for undefined keys in a Hash.
+
+You know advanced Ruby when you:
+* Construct dynamic method with `method_missing`
+* Know how to use `eval` and `class_eval`
 
 Ongoing Reference
 -----------------
