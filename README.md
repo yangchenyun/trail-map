@@ -1,7 +1,7 @@
 Trail map maintained by Zenhacks
 =========
 
-The trail maps are originated by [thoughtbot](https://github.com/thoughtbot/trail-map). We embraced the concepts they develop for learning different technology. They said:
+The trail maps are originated by [thoughtbot](https://github.com/thoughtbot/trail-map). We embraced their concepts for learning different technology. They said:
 
 > A few problems make those questions difficult to answer. Individuals:
 >
@@ -20,10 +20,13 @@ The trail maps are originated by [thoughtbot](https://github.com/thoughtbot/trai
 
 Why Make Another one
 ------
-We found some trails([`unix`](https://github.com/thoughtbot/trail-map/blob/master/trails/unix.md), [`ruby`](https://github.com/thoughtbot/trail-map/blob/master/trails/ruby.md)) contain too much information and vague validation due to the scope of the topic themselves.
+We found some trails([`unix`](https://github.com/thoughtbot/trail-map/blob/master/trails/unix.md), [`ruby`](https://github.com/thoughtbot/trail-map/blob/master/trails/ruby.md)) are difficult to finish in a short term and and the validation is too vague. This is mainly caused by scope of the topic itself. To resolve this problem, we decide to break down large iteration into smaller trails and each with additional materials and validation.
 
-Thus we provide this trail maps with:
-* Break down large topics into small trails each with additional materials and validation
+With this smaller trail maps, we could:
+* Focus on one topic at a time
+* More targeted learning materials
+* Faster feedback circle and keep our morale high
+* More specific validation to ensure a solid learning result
 
 Trails
 ------
@@ -64,7 +67,7 @@ Credits
 ![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
 ![zenhacks]()
 
-Trail Map is maintained by [thoughtbot, inc]()
+Trail Map is maintained by [zenhacks, inc]()
 
 The names and logos for zenhacks are trademarks of zenhacks, inc.
 
