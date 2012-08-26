@@ -1,43 +1,56 @@
-Trail map
+Trail map maintained by Zenhacks
 =========
 
-> How do I learn Ruby on Rails? Vim? Test-Driven Development?
+The trail maps are originated by [thoughtbot](https://github.com/thoughtbot/trail-map). We embraced their concepts for learning different technology. They said:
 
-[apprentice.io](http://apprentice.io) has forced us to formalize our answers to
-such questions.
+> A few problems make those questions difficult to answer. Individuals:
+>
+> * have different levels of experience
+> * have different learning styles
+> * change their goals mid-process
+>
+> A good metaphor for the learning process is a (hiking, biking, or skiing) trail map. Individuals:
+>
+> * start in different places
+> * want to go to different places
+> * change direction mid-journey
+>
+> ![Trail map](http://media.tumblr.com/tumblr_m2jrde9jXS1qz5x9p.jpg)
 
-A few problems make those questions difficult to answer. Individuals:
 
-* have different levels of experience
-* have different learning styles
-* change their goals mid-process
+Why Make Another one
+------
+We found some trails([`unix`](https://github.com/thoughtbot/trail-map/blob/master/trails/unix.md), [`ruby`](https://github.com/thoughtbot/trail-map/blob/master/trails/ruby.md)) are difficult to finish in a short term and and the validation is too vague. This is mainly caused by scope of the topic itself. To resolve this problem, we decide to break down large iteration into smaller trails and each with additional materials and validation.
 
-A good metaphor for the learning process is a (hiking, biking, or skiing)
-trail map. Individuals:
-
-* start in different places
-* want to go to different places
-* change direction mid-journey
-
-![Trail map](http://media.tumblr.com/tumblr_m2jrde9jXS1qz5x9p.jpg)
-
-This repository contains trails to help designers and developers learn.
+With this smaller trail maps, we could:
+* Focus on one topic at a time
+* More targeted learning materials
+* Faster feedback circle and keep our morale high
+* More specific validation to ensure a solid learning result
 
 Trails
 ------
 
-* [Git](/thoughtbot/trail-map/blob/master/trails/git.md)
-* [iOS](/thoughtbot/trail-map/blob/master/trails/ios.md)
-* [Javascript](/thoughtbot/trail-map/blob/master/trails/javascript.md)
-* [Open Source](/thoughtbot/trail-map/blob/master/trails/open-source.md)
-* [Postgres](/thoughtbot/trail-map/blob/master/trails/postgres.md)
-* [Rails](/thoughtbot/trail-map/blob/master/trails/rails.md)
-* [Refactoring](/thoughtbot/trail-map/blob/master/trails/refactoring.md)
-* [Ruby](/thoughtbot/trail-map/blob/master/trails/ruby.md)
-* [SASS](/thoughtbot/trail-map/blob/master/trails/sass.md)
-* [Test-Driven Development](/thoughtbot/trail-map/blob/master/trails/test-driven-development.md)
-* [Unix](/thoughtbot/trail-map/blob/master/trails/unix.md)
-* [Vim](/thoughtbot/trail-map/blob/master/trails/vim.md)
+* [Git](/yangchenyun/trail-map/blob/master/trails/git.md)
+* [Javascript](/yangchenyun/trail-map/blob/master/trails/javascript.md)
+* [Open Source](/yangchenyun/trail-map/blob/master/trails/open-source.md)
+* [Vim](/yangchenyun/trail-map/blob/master/trails/vim.md)
+
+Development
+-----------
+
+* [iOS](/yangchenyun/trail-map/blob/master/trails/Development/ios.md)
+* [Postgres](/yangchenyun/trail-map/blob/master/trails/Development/postgres.md)
+* [Refactoring](/yangchenyun/trail-map/blob/master/trails/Development/refactoring.md)
+* [Test-Driven Development](/yangchenyun/trail-map/blob/master/trails/Development/test-driven-development.md)
+* [Unix](/yangchenyun/trail-map/blob/master/trails/Development/unix)
+* [Rails](/yangchenyun/trail-map/blob/master/trails/Development/rails)
+* [Ruby](/yangchenyun/trail-map/blob/master/trails/Development/ruby)
+
+Design
+------
+
+* [SASS](/yangchenyun/trail-map/blob/master/trails/Design/sass.md)
 
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
@@ -46,16 +59,17 @@ To use these, you may want to first set up your laptop with
 Contributing
 ------------
 
-Please see [Contribution Guidelines](/thoughtbot/trail-map/blob/master/CONTRIBUTING.md)
+Please see [Contribution Guidelines](/yangchenyun/trail-map/blob/master/CONTRIBUTING.md)
 
 Credits
 -------
 
 ![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
+![zenhacks]()
 
-Trail Map is maintained by [thoughtbot, inc](http://thoughtbot.com/community)
+Trail Map is maintained by [zenhacks, inc]()
 
-The names and logos for thoughtbot are trademarks of thoughtbot, inc.
+The names and logos for zenhacks are trademarks of zenhacks, inc.
 
 License
 -------
