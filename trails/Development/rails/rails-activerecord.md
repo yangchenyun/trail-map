@@ -29,10 +29,8 @@ You know intermediate ActiveRecord when you can:
 * Execute raw SQL statements in migrations and models
 * Add SQL clause through `:conditions`, `:order`, `:select`, `:from`, `:limit`, `:offect`, `:group` and `:having` options
 * Perform SQL calculations through ActiveRecord
-
 * Modify the scheme and build various associations in ActiveRecord
 * Use the build-in methods to CRUD associated objects.
-
 * Know the hooks in a life cycle of ActiveRecord
 * Use the build-in validators.
 * Write validations with validate helpers in ActiveRecord
