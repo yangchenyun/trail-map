@@ -2,22 +2,6 @@ Trail map maintained by Zenhacks
 =========
 
 The trail maps are originated by [thoughtbot](https://github.com/thoughtbot/trail-map). We embraced their concepts for learning different technology. They said:
-
-> A few problems make those questions difficult to answer. Individuals:
->
-> * have different levels of experience
-> * have different learning styles
-> * change their goals mid-process
->
-> A good metaphor for the learning process is a (hiking, biking, or skiing) trail map. Individuals:
->
-> * start in different places
-> * want to go to different places
-> * change direction mid-journey
->
-> ![Trail map](http://media.tumblr.com/tumblr_m2jrde9jXS1qz5x9p.jpg)
-
-
 Why Make Another one
 ------
 We found some trails([`unix`](https://github.com/thoughtbot/trail-map/blob/master/trails/unix.md), [`ruby`](https://github.com/thoughtbot/trail-map/blob/master/trails/ruby.md)) are difficult to finish in a short term and and the validation is too vague. This is mainly caused by scope of the topic itself. To resolve this problem, we decide to break down large iteration into smaller trails and each with additional materials and validation.
@@ -51,10 +35,18 @@ Design
 ------
 
 * [SASS](/yangchenyun/trail-map/blob/master/trails/Design/sass.md)
+* [Grids](/yangchenyun/trail-map/blob/master/trails/grids.md)
+* [Information Design](/yangchenyun/trail-map/blob/master/trails/information-design.md)
+* [Typography](/yangchenyun/trail-map/blob/master/trails/typography.md)
+* [Visual Design](/yangchenyun/trail-map/blob/master/trails/visual-design.md)
 
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
 [these dotfiles](https://github.com/thoughtbot/dotfiles).
+
+Trails
+------
+
 
 Contributing
 ------------
