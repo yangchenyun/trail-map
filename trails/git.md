@@ -5,12 +5,12 @@ Critical learning
 -----------------
 
 * Take the [Try Git](http://try.github.com/levels/1/challenges/1) guided tour.
-* Watch the [Normal Workflow](http://blip.tv/scott-chacon/c2-normal-workflow-4113486)
-  gitcast.
-* Watch the [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615)
-  gitcast.
-* Read [Chapter 3 of Pro Git](http://git-scm.com/book/ch3-0.html).
-* Read [gitready](http://gitready.com) articles that interest you.
+* Read [Chapter 3 of Pro Git](http://git-scm.com/book/en/Git-Branching).
+* Read about [Git Object](http://www.gitguys.com/topics/all-git-object-types-blob-tree-commit-and-tag/)
+* Read about [Git index](http://www.gitguys.com/topics/whats-the-deal-with-the-git-index/)
+* Watch the [Normal Workflow](http://blip.tv/scott-chacon/c2-normal-workflow-4113486) gitcast.
+* Watch the [Distributed Workflow](http://blip.tv/scott-chacon/c8-dist-workflow-4113615) gitcast.
+* Read the [Git from bottom up](ftp.newartisans.com/pub/git.from.bottom.up.pdf )
 
 Validation
 ----------
@@ -53,6 +53,7 @@ You know advanced git when you can:
 
 Ongoing reference
 -----------------
+Read [gitready](http://gitready.com) articles that interest you.
 
 Refer to these man pages when you start a new project:
 
