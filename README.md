@@ -35,6 +35,7 @@ Development
 Design
 ------
 
+* [CSS](/yangchenyun/trail-map/blob/master/trails/css.md)
 * [SASS](/yangchenyun/trail-map/blob/master/trails/Design/sass.md)
 * [Grids](/yangchenyun/trail-map/blob/master/trails/grids.md)
 * [Information Design](/yangchenyun/trail-map/blob/master/trails/information-design.md)
@@ -44,9 +45,6 @@ Design
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
 [these dotfiles](https://github.com/thoughtbot/dotfiles).
-
-Trails
-------
 
 
 Contributing
@@ -58,9 +56,9 @@ Credits
 -------
 
 ![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
-![zenhacks]()
+![zenhacks](http://zenhacks.org/img/changan-log.png)
 
-Trail Map is maintained by [zenhacks, inc]()
+Trail Map is maintained by [zenhacks, inc](http://zenhacks.org)
 
 The names and logos for zenhacks are trademarks of zenhacks, inc.
 
