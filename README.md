@@ -19,6 +19,7 @@ Trails
 * [Javascript](/yangchenyun/trail-map/blob/master/trails/javascript.md)
 * [Open Source](/yangchenyun/trail-map/blob/master/trails/open-source.md)
 * [Vim](/yangchenyun/trail-map/blob/master/trails/vim.md)
+* [Vim](/yangchenyun/trail-map/blob/master/trails/node.md)
 
 Development
 -----------
