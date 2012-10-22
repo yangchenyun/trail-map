@@ -31,10 +31,12 @@ Development
 * [Unix](/yangchenyun/trail-map/blob/master/trails/Development/unix)
 * [Rails](/yangchenyun/trail-map/blob/master/trails/Development/rails)
 * [Ruby](/yangchenyun/trail-map/blob/master/trails/Development/ruby)
+* [Code Review](/yangchenyun/trail-map/blob/master/trails/code-review.md)
 
 Design
 ------
 
+* [HTML](/yangchenyun/trail-map/blob/master/trails/html.md)
 * [CSS](/yangchenyun/trail-map/blob/master/trails/css.md)
 * [SASS](/yangchenyun/trail-map/blob/master/trails/Design/sass.md)
 * [Grids](/yangchenyun/trail-map/blob/master/trails/grids.md)
@@ -45,7 +47,6 @@ Design
 To use these, you may want to first set up your laptop with
 [this script](https://github.com/thoughtbot/laptop) and
 [these dotfiles](https://github.com/thoughtbot/dotfiles).
-
 
 Contributing
 ------------
@@ -59,10 +60,13 @@ Credits
 ![zenhacks](http://zenhacks.org/img/changan-log.png)
 
 Trail Map is maintained by [zenhacks, inc](http://zenhacks.org)
-
 The names and logos for zenhacks are trademarks of zenhacks, inc.
+
+Thank you, [contributors](/thoughtbot/trail-map/graphs/contributors)!
 
 License
 -------
 
-Trail Map is licensed under the [Creative Commons Attribution License](http://creativecommons.org/licenses/by/3.0/).
+Trail Map is © 2012 thoughtbot, inc. It is free software and may be
+redistributed under the terms specified in the [Creative Commons Attribution
+License](http://creativecommons.org/licenses/by/3.0/).

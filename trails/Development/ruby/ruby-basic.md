@@ -8,6 +8,13 @@ Critical Learning
 * Read [The Well-Grounded Rubyist](http://manning.com/black2/). ($)
 * Complete the [Ruby Koans](http://rubykoans.com).
 * Read examples of source code, such as [this](https://github.com/jferris/effigy/tree/master/lib).
+  ```shell
+  Chapter 23, "Duck Typing"
+  Chapter 24, "Classes and Objects"
+  ```
+* Read these sections of
+ [The Pickaxe](http://amzn.to/pickaxe-19): ($)
+
 Validation
 ----------
 
@@ -36,4 +43,4 @@ Ongoing Reference
 
 * [Ruby Core Documentation](http://ruby-doc.org/core-1.9.3)
 * Ruby Library reference in The Pickaxe.
-* Stick to [a style guide](http://build.thoughtbot.com/style-guide).
+* Stick to [a](https://github.com/styleguide/ruby) [style](https://github.com/bbatsov/ruby-style-guide) [guide](http://build.thoughtbot.com/style-guide)
